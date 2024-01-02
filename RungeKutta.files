@@ -1,0 +1,14 @@
+Core/main.py
+Recursos.qrc
+RungeKutta.cflags
+RungeKutta.cxxflags
+Views/__init__.py
+Views/calculo.ui
+Views/grafico.ui
+Views/mainwindow.ui
+Views/sobre.ui
+Views/tabela.ui
+qt-config/RungeKutta.cflags
+qt-config/RungeKutta.cxxflags
+qt-config/requirements.txt
+requirements.txt
